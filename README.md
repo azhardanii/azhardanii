@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/kK9vX0r/SAD-Profile-removebg.png" width="150"> <br>
+  <img src="https://ik.imagekit.io/azhardanii/uqi_YCR2rPLoD.png" width="150"> <br>
   <strong align="center">SYAUQI AZHAR DANII</strong> <br>
   Freelancer | WEB Enjoyneering | Work With ❤️
 </p>
