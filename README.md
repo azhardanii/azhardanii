@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://drive.google.com/uc?id=1KqtWyk4vynshah5m9maawUrRik39rRMv" width="150"> <br>
   <strong align="center">SYAUQI AZHAR DANII</strong> <br>
-  Freelancer | WEB Enjoyneering | Work With ❤️
+  Freelancer | WEB Enjoyneer | Work With ❤️
 </p>
 
 <h4 align="center">Yukk Saling Terhubung :</h4>
