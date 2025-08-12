@@ -34,6 +34,9 @@
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
   ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
   ![Gemini](https://img.shields.io/badge/Gemini-886FBF?logo=googlegemini&logoColor=fff)
+  ![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff)
+  ![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000)
+  ![v0](https://img.shields.io/badge/v0-000?logo=v0&logoColor=fff)
   
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=azhardanii&theme=apprentice&hide_title=true&hide_border=false&include_all_commits=true&count_private=true&layout=donut)
 
